@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu souu o Giner Andres Lozano</h1>
+<h1 align="center">Olá 👋, eu sou o Giner Andres Lozano</h1>
 <h3 align="center">Apaixonado por Business Intelligence (BI) e análise de dados.</h3>
 
 - 🔭 Atualmente estou trabalhando como: senior service analyst. **SeuBet**
