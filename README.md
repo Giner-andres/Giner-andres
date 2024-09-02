@@ -9,7 +9,7 @@
 
 - 💬 Pode questionar sobre SQL, Excel e Power BI, e num futuro não muito distante sobre Python. **SQL**
 
-- 📫 Você pode me encontrar no meu e-mail: giner1895@gmail.com ou onde posto o meu saber acumulado, experiencia, certificações e demais (linkedlin: www.linkedin.com/in/giner-andres-lozano-hernandez-06a03714b ). **giner1895#gmail.com**
+- 📫 Você pode me encontrar no meu e-mail: giner1895@gmail.com ou onde posto o meu saber acumulado, experiencia, certificações e demais (linkedlin: www.linkedin.com/in/giner-andres-lozano-hernandez-06a03714b ). **giner1895@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
