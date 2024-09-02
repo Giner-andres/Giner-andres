@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, eu sou o Giner Andres Lozano</h1>
-<h3 align="center">Apaixonado por Business Intelligence (BI) e análise de dados.</h3>
+<h3 align="center">Formado em Administração, com pós-grado em Data Warehouse e Business Intelligence (BI) e com outro pós-grado em engenharia e gestão do conhecimento. Apaixonado por Business Intelligence (BI) e Data Analysis.</h3>
 
 - 🔭 Atualmente estou trabalhando como: senior service analyst. **SeuBet**
 
